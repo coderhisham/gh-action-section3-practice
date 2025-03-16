@@ -1,4 +1,4 @@
-name: output
+name: Handle Issue Open
 on:
   workflow_dispatch:
   issues:
